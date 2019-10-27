@@ -13,6 +13,8 @@ Install with:
 ```shell
 pip install strawberry-graphql
 ```
+### Prerequisite
+> Python 3.7 or above
 
 ## Getting Started
 
