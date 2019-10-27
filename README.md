@@ -118,6 +118,7 @@ pre-commit install
   - In case of sensitive bugs like security vulnerabilities, please contact
     patrick.arminio@gmail.com directly instead of using issue tracker. We value
     your effort to improve the security and privacy of this project!
+- Author Twitter page: https://twitter.com/patrick91 
 
 ## Licensing
 
